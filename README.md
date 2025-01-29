@@ -26,7 +26,7 @@ I’m **Aashish BishowKarma**, a driven Software Engineering student with a pass
 ###
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aashishbishow&color=blue&style=flat)
-![wakatime](https://wakatime.com/badge/user/ce861068-81cd-4e77-ab79-3fc61f76a234.svg)](https://wakatime.com/@ce861068-81cd-4e77-ab79-3fc61f76a234)
+[![wakatime](https://wakatime.com/badge/user/ce861068-81cd-4e77-ab79-3fc61f76a234.svg)](https://wakatime.com/@ce861068-81cd-4e77-ab79-3fc61f76a234)
 
 ###
 
