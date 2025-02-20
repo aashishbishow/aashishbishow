@@ -32,7 +32,7 @@ I’m **Aashish BishowKarma**, a driven Software Engineering student with a pass
 
 <h3>Connect with me:</h3>
 <div align="left">
-  <a href="www.linkedin.com/in/aashishbishow" target="_blank">
+  <a href="www.linkedin.com/in/aashishbishow/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
